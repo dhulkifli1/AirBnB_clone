@@ -22,12 +22,13 @@ section.filters button:hover {
 section.filters div.locations {
     height: 100%;
     width: 25%;
+    margin: 1px auto;
     border-right: 1px solid #DDDDDD;
-    
 }
 section.filters div.amenities {
     height: 100%;
     width: 25%;
+    margin: 1px auto;
 }
 div.locations h3, div.amenities h3  {
     font-weight: 600;
